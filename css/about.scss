@@ -1,0 +1,12 @@
+ 
+
+
+
+@media screen and (max-width: 600px) {
+    .mgrid{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas: "a" "b" "c" "d";
+    }
+    
+}
