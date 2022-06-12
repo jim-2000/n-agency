@@ -12,12 +12,13 @@
   }
   
   body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Beternite', sans-serif;
+
     line-height: 1.4;
   }
   
   .container {
-    max-width: 960px;
+    max-width: 1200px;
     margin: auto;
     overflow: hidden;
     padding: 0 3rem;
@@ -52,7 +53,7 @@
   }
   
   .showcase h1 {
-    font-size: 6rem;
+    font-size: 4rem;
   }
   
   .showcase p {
